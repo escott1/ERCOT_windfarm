@@ -12,9 +12,11 @@ interaction with the wholesale market.
 I approached the problem from two different angles. I first took a 'statistical' approach by trying to size the battery 
 in a way that would cover the majority of daily deviations. Second, I approached the problem by looking at wholesale market
 prices available from ERCOT to combine ancillary services - then simulate battery operation for a year for a variety of battery sizes.
-* The 'final' folder contains the final write-up for both approaches and a summary powerpoint
 * The 'part_1_stats' folder contains the python scipts, original data, and images generated for the 'statistical' approach
 * The 'part_2_market' folder contains the python scripts, data, and images generated for the 'pricing' approach
+* The 'final' folder contains the final write-up for both approaches and a summary powerpoint
+<br>
+The PDFs are viewable in GitHub. 
 
 ### Requirements
 
