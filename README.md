@@ -8,7 +8,7 @@ energy production, however the actual production deviates due to forecasting err
 is to find an ideal battery size that a battery manufacturer could sell to the wind farm owner to help improve their
 interaction with the wholesale market.
 
-### The Project Organization
+### Project Organization
 I approached the problem from two different angles. I first took a 'statistical' approach by trying to size the battery 
 in a way that would cover the majority of daily deviations. Second, I approached the problem by looking at wholesale market
 prices available from ERCOT to combine ancillary services and simulate battery operation for a year. 
