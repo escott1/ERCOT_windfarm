@@ -20,7 +20,7 @@ The PDFs are viewable in GitHub.
 
 ### Requirements
 
-* Python 2.7.10
-* Pandas 0.19.1
-* Numpy 1.8.0rc1
-* Seaborn 0.8.1
+* Code is in Python 2.7.10
+* Pandas >= 0.19.1
+* Numpy >= 1.8.0rc1
+* Seaborn >= 0.8.1
